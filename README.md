@@ -5,10 +5,6 @@
 
   - 🌱 I’m currently learning **Solana/Rust.**
 
-  <h3 align="left">Connect with me:</h3>
-  <p align="left">
-  </p>
-
   <h3 align="left">Languages:</h3>
   <p align="left"> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
 
@@ -21,3 +17,4 @@
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=051318AA&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=32&lines=The+journey+of+a+thousand+miles+begins+with+a+single+step." alt="Typing SVG" />
     </a>
   </div><br>
+</div>
